@@ -1,5 +1,3 @@
-# Hi there, I'm Kim Sour 👋
-
 ## About Me
 
 - 🎓 First-Year **Bachelor of Data Science and Engineering** student at **Royal University of Phnom Penh (RUPP)**
