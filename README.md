@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Kim Sour 👋
 
-<!--
-**kuykimsour-web/kuykimsour-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 First-Year **Bachelor of Data Science and Engineering** student at **Royal University of Phnom Penh (RUPP)**
+- 💡 Aspiring **AI & Data Engineer** passionate about data, AI, and machine learning
+- 💻 Skilled in **Python, C++, NumPy, SPSS, Excel, and Data Analysis**
+- 📊 Building projects in **Machine Learning, Data Analytics, and Smart City Solutions**
+- 🌱 Currently learning **Machine Learning, SQL, Statistics, and Data Visualization**
+- 📍 Phnom Penh, Cambodia 🇰🇭
+- 📫 **Email:** kuykimsour@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/kimsour-kuy-1271163a6
+- GitHub: https://github.com/kuykimsour-web
+- Kaggle: https://www.kaggle.com/kuykimsour
