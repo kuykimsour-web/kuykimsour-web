@@ -6,7 +6,7 @@
 -  Building projects in **Machine Learning, Data Analytics, and Smart City Solutions**
 -  Currently learning **Machine Learning, SQL, Statistics, and Data Visualization**
 -  Phnom Penh, Cambodia 🇰🇭
--  **Email:** kuy.kimsour.3625@rupp.edu.kh
+-  Reach me at kuy.kimsour.3625@rupp.edu.kh
 
 ## 🌐 Connect with Me
 
