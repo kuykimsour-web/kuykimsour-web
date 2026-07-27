@@ -7,9 +7,3 @@
 -  Currently learning **Machine Learning, SQL, Statistics, and Data Visualization**
 -  Phnom Penh, Cambodia 🇰🇭
 -  Reach me at kuy.kimsour.3625@rupp.edu.kh
-
-## 🌐 Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/kimsour-kuy-1271163a6
-- GitHub: https://github.com/kuykimsour-web
-- Kaggle: https://www.kaggle.com/kuykimsour
