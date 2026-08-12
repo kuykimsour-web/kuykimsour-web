@@ -1,5 +1,5 @@
 # 💫 About Me:
- First-Year Bachelor of Data Science and Engineering student at Royal University of Phnom Penh (RUPP)<br> Aspiring AI & Data Engineer passionate about data, AI, machine learning and Data Analysis<br> Skilled in **Python, C++, CSS, HTML, Excel, and Data Analysis<br> Building projects in Machine Learning and Data Analytics<br> Currently learning Machine Learning, SQL, Statistics, and Data Visualization<br> Phnom Penh, Cambodia 🇰🇭<br> Reach me at kuy.kimsour.3625@rupp.edu.kh
+- First-Year Bachelor of Data Science and Engineering student at Royal University of Phnom Penh (RUPP)<br> Aspiring AI & Data Engineer passionate about data, AI, machine learning and Data Analysis<br> Skilled in **Python, C++, CSS, HTML, Excel, and Data Analysis<br> Building projects in Machine Learning and Data Analytics<br> Currently learning Machine Learning, SQL, Statistics, and Data Visualization<br> Phnom Penh, Cambodia 🇰🇭<br> Reach me at kuy.kimsour.3625@rupp.edu.kh
 
 
 ## 🌐 Socials:
